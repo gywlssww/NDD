@@ -4,5 +4,5 @@ By using pi camera , PIR sensor, Ultrasonic sensor, tilt sensor with Raspberry P
 
 We notice users' posture by 5 steps using three-color-led and take pictures if we check bad postures. 
 
-User can check their bad-posture-pictures online.
+Users can check their bad-posture-pictures online.
 
